@@ -1,2 +1,2 @@
 # designofthetimes
-git repository for dreamweaver
+github repository for my webdevelopement studies
